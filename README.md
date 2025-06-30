@@ -38,7 +38,7 @@ gallery_project/
 ⚙️ Setup Instructions
 
 git clone https://github.com/sophonie-1/gallery.git
-cd django-gallery
+cd gallery
 
 Set Up Environment:
 
